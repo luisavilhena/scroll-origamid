@@ -1,0 +1,11 @@
+.ativo {
+  background-color: red;
+}
+
+.js-scroll {
+  opacity: 0;
+}
+
+.js-scroll.ativo {
+  opacity: 1
+}
